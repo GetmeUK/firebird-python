@@ -1,7 +1,7 @@
 from datetime import datetime
 import json
 
-from . import pagination
+__all__ = ['_BaseResource']
 
 
 # NOTE: The resource classes provide thin wrappers to data fetched from the
