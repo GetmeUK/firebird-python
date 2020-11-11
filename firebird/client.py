@@ -16,7 +16,7 @@ class Client:
     def __init__(
         self,
         api_key,
-        api_base_url='https://api.firebird.io',
+        api_base_url='https://api.firebird.tel',
         timeout=None
     ):
 
